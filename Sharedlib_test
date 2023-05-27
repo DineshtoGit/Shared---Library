@@ -1,5 +1,5 @@
 @Library('Devops_Library@main')_
 node
 {
-  my1stcode ("dinku")
+  myfirstcode ("dinku")
  }
