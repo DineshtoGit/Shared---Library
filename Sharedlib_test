@@ -1,0 +1,5 @@
+@Library('Devops_Library@main')_
+node
+{
+  my1st code ("dinku")
+ }
